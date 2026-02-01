@@ -1,4 +1,4 @@
-# IITK AutoWala 🚕
+# IITK AutoWala 🛺
 
 ### <a href="https://iitk-autowala.netlify.app"> 👉  Live link </a>
 
