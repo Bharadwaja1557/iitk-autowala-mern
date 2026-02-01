@@ -1,6 +1,7 @@
 # Driver Discovery System 🚕
 
-<a href="https://iitk-autowala.netlify.app">Live link</a>
+## <a href="https://iitk-autowala.netlify.app"> 👉 Live link </a>
+
 
 A lightweight full-stack web application that enables riders to discover nearby available drivers in real time. The system supports three roles — **Rider**, **Driver**, and **Admin** — and was built as part of a hackathon with a focus on simplicity, reliability, and fast deployment.
 
@@ -82,6 +83,7 @@ driver-discovery/
 ---
 
 ## 🌍 Deployment
+### <a href="https://iitk-autowala.netlify.app"> 👉 Live link </a>
 - **Frontend:** Netlify  
 - **Backend:** Render  
 - **Database:** FreeSQLdatabase  
