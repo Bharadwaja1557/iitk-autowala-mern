@@ -63,14 +63,17 @@ driver-discovery/
 ├── backend/
 │   ├── index.js
 │   ├── db.js
-│   └── routes/
+│   ├── models/
+│   │   └── Driver.js
+│   └── package.json
 │
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js
-│   │   ├── RiderPanel.js
-│   │   ├── DriverPanel.js
-│   │   └── AdminPanel.js
+│   │   └── panels/
+│   │       ├── RiderPanel.js
+│   │       ├──DriverPanel.js
+│   │       └── AdminPanel.js
 │   └── package.json
 │
 └── README.md
